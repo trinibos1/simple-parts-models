@@ -1,5 +1,5 @@
 # simple-parts-models
-Common mechanical/electronics part models in simple `.stl` and `.f3d` formats.
+Common mechanical, electronics also RC part models in simple `.stl` and `.f3d` formats.
 If you have 3d model of a part, upload it because why not.
 
 ## Current Parts
@@ -12,6 +12,8 @@ If you have 3d model of a part, upload it because why not.
 
 ## coming soon
 - ESP-WROOM-32
+- Rc car spherical ball joint
+- RC spring
 
 ## Working Together (Part List Format + How to Add)
 
